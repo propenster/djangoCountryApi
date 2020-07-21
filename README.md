@@ -1,7 +1,10 @@
 # djangoCountryApi
 A RESTful API endpoint for country codes, names and population made with the pythonic Django Rest Framework
 
-<pre class="prettyprint"><b>GET</b> /countries/</pre>
+## API Search Endpoint
+
+### Request
+   GET  /countries/
 
 HTTP 200 OK
 Allow: GET, POST, HEAD, OPTIONS
